@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋  <br>I'm a software engineering student passionate about web development and problem solving.<br><br> Intersted in:<br>- 💻 Back-End Development (.NET)<br>- 🌐 Web applications & databases<br>- 🧠 algorithms and system design<br>- 🚀 Always learning and improving
+Hi 👋  <br>I'm a software engineering student passionate about web development and problem solving.<br><br> Intersted in:<br>- 💻 Back-End Development (.NET)<br>- 🌐 Web applications & databases<br>- 🧠 algorithms and system design<br>
 
 
 ## 🌐 Socials:
